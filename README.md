@@ -37,19 +37,19 @@ This frontend is designed to work seamlessly with the Django backend, offering:
 ## Screenshots
 
 ### Invoices
-![Invoices](public/S1.png)
+![Invoices](Project_Management_Django-main/public/S1.png)
 
 ### Tasks
-![Tasks](public/S2.png)
+![Tasks](Project_Management_Django-main/public/S2.png)
 
 ### ToDo
-![ToDo](public/S3.png)
+![ToDo](Project_Management_Django-main/public/S3.png)
 
 ### Bank Accounts
-![Bank Accounts](public/S4.png)
+![Bank Accounts](Project_Management_Django-main/public/S4.png)
 
 ### Proposals
-![Proposals](public/S5.png)
+![Proposals](Project_Management_Django-main/public/S5.png)
 
 *Replace the above image filenames with the actual names if different (e.g., lisa.png, logo.png, etc.). Place your screenshots in the `public/` directory.*
 
